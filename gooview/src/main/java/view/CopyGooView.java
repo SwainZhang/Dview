@@ -33,6 +33,7 @@ import utils.Utils;
  * @author
  *
  */
+
 public class CopyGooView extends View {
 
 	private static final String TAG = "TAG";

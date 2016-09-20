@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dview.iml" filepath="$PROJECT_DIR$/Dview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gooview/gooview.iml" filepath="$PROJECT_DIR$/gooview/gooview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parallex/parallex.iml" filepath="$PROJECT_DIR$/parallex/parallex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingdrawermenu/slidingdrawermenu.iml" filepath="$PROJECT_DIR$/slidingdrawermenu/slidingdrawermenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingmenu/slidingmenu.iml" filepath="$PROJECT_DIR$/slidingmenu/slidingmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spinnerdemo/spinnerdemo.iml" filepath="$PROJECT_DIR$/spinnerdemo/spinnerdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sweepdelete/sweepdelete.iml" filepath="$PROJECT_DIR$/sweepdelete/sweepdelete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewdraghelper/viewdraghelper.iml" filepath="$PROJECT_DIR$/viewdraghelper/viewdraghelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youkudemo/youkudemo.iml" filepath="$PROJECT_DIR$/youkudemo/youkudemo.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+include ':app', ':spinnerdemo', ':youkudemo', ':slidingmenu', ':slidingdrawermenu', ':viewdraghelper', ':parallex', ':sweepdelete', ':gooview'

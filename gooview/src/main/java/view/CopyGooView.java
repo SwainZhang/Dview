@@ -34,6 +34,7 @@ import utils.Utils;
  *
  */
 
+
 public class CopyGooView extends View {
 
 	private static final String TAG = "TAG";
